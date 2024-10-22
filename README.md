@@ -78,7 +78,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adhamcode) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adhamcode/)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=adhamcl)  
 <hr>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
 <hr>
