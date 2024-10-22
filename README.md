@@ -25,7 +25,46 @@
 <a href="https://discord.gg/adhamcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adhamcl" height="30" width="40" /></a>
 </p>
 
+<hr>
 
+## ⭐ Feedback from clients:
+
+- Excellent work! Adham updated my app quickly and efficiently. Would definitely hire again!
+- Great communication, delivered ahead of schedule with high-quality work.
+- Adham understood my needs perfectly and executed flawlessly. Highly recommend!
+- Fast and responsive! Delivered exactly what I needed.
+- Very professional and skilled in Kotlin, Android, and backend development.
+- Adham provided exceptional service. His attention to detail was spot on!
+
+<hr>
+
+## :zap: Projects I've worked on
+
+1. **GitHub Profile Viewer (Android App):**
+   An app allowing users to input a GitHub username and fetch detailed profile information, using Retrofit and GitHub API.
+
+2. **Pizza Ordering App (Android App):**
+   A user-friendly app for ordering pizza and fast food with real-time tracking and custom options.
+
+3. **Prayer Tracker (Android App):**
+   A personalized app that helps users track their daily prayers and fasting, built using Jetpack Compose and DataStore.
+
+4. **IoT Smart Home Controller (Android App):**
+   A project to control smart home devices through an Android app, using Bluetooth and WiFi integration.
+
+5. **Code Clone Detection (ML Project):**
+   A machine learning project focused on detecting code clones, leveraging deep learning to enhance model accuracy.
+
+6. **Educational Platform (React Website):**
+   A web platform providing coding lessons, tutorials, and challenges aimed at simplifying complex programming concepts.
+
+7. **Stack and Queue Visualizer (Web App):**
+   A visual learning tool for understanding stack and queue data structures, built using HTML, CSS, and JavaScript.
+
+8. **E-Commerce Clothing Store (React Website):**
+   A modern e-commerce platform featuring a responsive design and integration with Firebase for product management.
+
+<hr>
 
 ### 💻 Languages and Tools
 
