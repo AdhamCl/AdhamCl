@@ -1,56 +1,44 @@
-<h1 align="center">Hi 👋, I'm Adham</h1>
-<h3 align="center">Coding dreams into reality, one app at a time.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+        h1, h2, h3 { color: #333; }
+        p { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for GitHub Profile App</h1>
+    <p><strong>Effective Date:</strong> October 22, 2024</p>
+    <p>This Privacy Policy describes how the GitHub Profile App ("we," "us," or "our") collects, uses, and shares information about you when you use our application ("GitHub Profile"). Your privacy is important to us, and we are committed to protecting your personal information.</p>
+    
+    <h2>1. Information We Collect</h2>
+    <p>When you use our App, we may collect the following types of information:</p>
+    <ul>
+        <li><strong>GitHub Profile Information:</strong> When you enter your GitHub username, we fetch your public profile information from the GitHub API. This includes your username, profile picture, bio, repositories, and other publicly available information.</li>
+        <li><strong>Usage Data:</strong> We do not collect or store any usage data. All information is fetched in real-time from the GitHub API and is not retained.</li>
+    </ul>
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
+    <h2>2. How We Use Your Information</h2>
+    <p>We do not use any personal information. The App temporarily fetches and displays your GitHub profile information. Once you close the App, any displayed information is deleted and not stored.</p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adhamcl/count.svg" />
-</p>
+    <h2>3. Sharing Your Information</h2>
+    <p>We do not share your personal information with third parties, except as required by law or to comply with legal processes. The information we collect from the GitHub API is public and displayed as provided by GitHub.</p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*k7Zt-r8gQ2d8q3cWWKbK3w.gif">
+    <h2>4. Security of Your Information</h2>
+    <p>We take the security of your information seriously and implement reasonable measures to protect it from unauthorized access, use, or disclosure. However, please note that no method of transmission over the internet or method of electronic storage is 100% secure.</p>
 
-- 🌱 I’m currently learning **Ktor, Jetpack Compose, RESTful API**
+    <h2>5. Children's Privacy</h2>
+    <p>Our App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have inadvertently collected information from a child under 13, we will take steps to delete that information.</p>
 
-- 💬 Ask me about **Android applications 📱**
+    <h2>6. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page, and you are encouraged to review this Privacy Policy periodically for any updates.</p>
 
-- 📫 How to reach me **AdhamCl@outlook.com**
-
-- ⚡ Fun fact **"Android Developer turning bugs into features. 🐞💻📱"**
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rafik-kroubi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafik-kroubi" height="30" width="40" /></a>
-<a href="https://instagram.com/adhamcl7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhamcl7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adhamcl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamcl" height="30" width="40" /></a>
-<a href="https://discord.gg/adhamcl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adhamcl" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
----
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=adhamcl)
+    <h2>7. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy or how we handle your information, please contact us at:</p>
+    <p>Email: rafik-kroubi@outlook.com</p>
+</body>
+</html>
