@@ -25,10 +25,7 @@
 <a href="https://discord.gg/adhamcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adhamcl" height="30" width="40" /></a>
 </p>
 
-<hr>
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
 
-<hr>
 
 ### 💻 Languages and Tools
 
@@ -43,3 +40,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adhamcode/)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=adhamcl)  
+<hr>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
+<hr>
