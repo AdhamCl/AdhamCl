@@ -6,7 +6,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*k7Zt-r8gQ2d8q3cWWKbK3w.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*k7Zt-r8gQ2d8q3cWWKbK3w.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 - 🌱 I’m currently learning **Ktor,JetpackCompose,RESTful API**
