@@ -26,7 +26,7 @@
 </p>
 
 <hr>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
 
 <hr>
 
