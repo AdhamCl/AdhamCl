@@ -25,6 +25,8 @@
 <a href="https://discord.gg/adhamcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adhamcl" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 ### 💻 Languages and Tools
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,cpp,cs,c,html,css,bootstrap,js,react,figma,xd,idea,vscode,py,stackoverflow,git,github,postman,firebase,mysql,mongodb,supabase&perline=18)
