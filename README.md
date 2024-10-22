@@ -55,13 +55,13 @@
 5. **Code Clone Detection (ML Project):**
    A machine learning project focused on detecting code clones, leveraging deep learning to enhance model accuracy.
 
-6. **Educational Platform (React Website):**
+6. **Educational Platform (Laravel Website):**
    A web platform providing coding lessons, tutorials, and challenges aimed at simplifying complex programming concepts.
 
 7. **Stack and Queue Visualizer (Web App):**
    A visual learning tool for understanding stack and queue data structures, built using HTML, CSS, and JavaScript.
 
-8. **E-Commerce Clothing Store (React Website):**
+8. **E-Commerce Clothing Store (Laravel Website):**
    A modern e-commerce platform featuring a responsive design and integration with Firebase for product management.
 
 <hr>
