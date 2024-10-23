@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">Coding dreams into reality, one app at a time.</h3>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -106,5 +106,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png" alt="Hello world">
 <hr>
