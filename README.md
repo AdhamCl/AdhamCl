@@ -66,7 +66,7 @@
 
 <hr>
 
-### 💻 Languages and Tools
+## 💻 Languages and Tools
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,cpp,cs,c,html,css,bootstrap,js,react,figma,xd,idea,vscode,py,stackoverflow,git,github,postman,firebase,mysql,mongodb,supabase&perline=18)
 
