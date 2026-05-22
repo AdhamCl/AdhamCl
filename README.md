@@ -50,6 +50,7 @@ TensorFlow	PyTorch	scikit-learn	OpenAI	HuggingFace
 <img src="https://skillicons.dev/icons?i=tensorflow" width="45" />	<img src="https://skillicons.dev/icons?i=pytorch" width="45" />	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="22" />	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="22" />	<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="22" />
 Deep Learning	Neural Networks	ML Algorithms	LLM APIs	Transformers
 </div>
+</div>
 🚀 AI + Android Projects
 <div align="center">
 <table width="100%">
@@ -60,7 +61,7 @@ Deep Learning	Neural Networks	ML Algorithms	LLM APIs	Transformers
       <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/TF%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <p>Android app using OpenAI API + on-device ML to review and improve code quality in real-time</p>
+      <p>Android app using OpenAI API for cloud-based code review + on-device TF Lite for local syntax analysis</p>
     </td>
     <td width="50%" align="center">
       <h3>📱 Smart Prayer Tracker (Compose)</h3>
@@ -68,7 +69,7 @@ Deep Learning	Neural Networks	ML Algorithms	LLM APIs	Transformers
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/ML%20Kit-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      <p>AI-powered prayer tracking with smart notifications using ML Kit and Jetpack Compose UI</p>
+      <p>AI-powered prayer tracking with smart location-based notifications using ML Kit and Jetpack Compose UI</p>
     </td>
   </tr>
   <tr>
@@ -121,12 +122,9 @@ Android + AI Tools
 <img src="https://img.shields.io/badge/ML%20Kit-FFCA28?style=flat&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-
-
 <!-- Animated GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=AdhamCl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamCl&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6F00&currStreakLabel=00D4AA" height="160" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamCl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA" height="160" />
 <!-- Animated Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhamCl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6F00" height="200" />
@@ -163,19 +161,26 @@ Android + AI Tools
 <div align="center">
   <!-- Animated Connect Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=400&lines=Let's+Connect+%F0%9F%8C%90;Follow+My+Journey+%F0%9F%9A%80;Build+Something+Amazing+%E2%9C%A8" />
-
-
-<a href="https://linkedin.com/in/rafik-kroubi">
-<a href="https://instagram.com/adhamcl7">
-<a href="https://leetcode.com/adhamcl">
-<a href="https://discord.gg/adhamcl">
-<a href="https://www.youtube.com/@adhamcode">
-<a href="mailto:AdhamCl@outlook.com">
-
-
+  <a href="https://linkedin.com/in/rafik-kroubi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/adhamcl7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/adhamcl">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/adhamcl">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@adhamcode">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:AdhamCl@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%" />
-
   <!-- Animated Closing Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=800&color=FF6F00&center=true&vCenter=true&width=500&lines=AI+%2B+Android+%2B+Kotlin+%3D+Future+%F0%9F%A4%96%F0%9F%93%B1%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=800&color=FF6F00&center=true&vCenter=true&width=500&lines=AI+%2B+Android+%2B+Kotlin+%3D+Future+%F0%9F%A4%96%F0%9F%93%B1%E2%9A%A1" />
 </div>
