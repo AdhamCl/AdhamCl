@@ -165,12 +165,6 @@ Android + AI Tools
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=400&lines=Let's+Connect+%F0%9F%8C%90;Follow+My+Journey+%F0%9F%9A%80;Build+Something+Amazing+%E2%9C%A8" />
 
 
-<a href="https://linkedin.com/in/rafik-kroubi">
-<a href="https://instagram.com/adhamcl7">
-<a href="https://leetcode.com/adhamcl">
-<a href="https://discord.gg/adhamcl">
-<a href="https://www.youtube.com/@adhamcode">
-<a href="mailto:AdhamCl@outlook.com">
 
 
   <!-- Animated Footer -->
